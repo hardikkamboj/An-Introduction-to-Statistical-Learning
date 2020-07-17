@@ -7,6 +7,11 @@ This repository contains the exercises and its solution contained in the book An
  machine learning algorithms, however, the exercises are implemented in R language, which is a hinderence for all those who are using python
  language. To overcome this i have tried solving all the questions in practical exerices in Python language, so people using python language 
  can also get the most our of this amazing book. Along with that i have also provided the solutions for conceptual questions.
+ I had tried my best to write the correct solutions to the problem, It was a challenge, and i need to learn to do a lot of research. I do not gurantee that all the solutions are
+ absoletely correct. I have commented the notebooks. 
+ If you find any query, do send a feedback about the same. Suggestions and corrections are welcome. 
+ this is my email - hardikkamboj1@gmail.com
+ Happy Learning!
  
 - ## [Chapter_2_Statistical_Learning](/Chapter_2/)
 - ## [Chapter_3_Linear_Regression](/Chapter_3/)
