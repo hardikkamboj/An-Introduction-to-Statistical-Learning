@@ -8,8 +8,8 @@ This repository contains the exercises and its solution contained in the book An
  language. To overcome this i have tried solving all the questions in practical exerices in Python language, so people using python language 
  can also get the most our of this amazing book. Along with that i have also provided the solutions for conceptual questions.
  
-## [Chapter_2](/Chapter_2/)
-## [Chapter_3](/Chapter_3/)
-## [Chapter_4](/Chapter_4/)
-## [Chapter_5](/Chapter_5/)
-## [Chapter_6](/Chapter_6/)
+- ## [Chapter_2_Statistical_Learning](/Chapter_2/)
+- ## [Chapter_3_Linear_Regression](/Chapter_3/)
+- ## [Chapter_4_Classification](/Chapter_4/)
+- ## [Chapter_5_Resampling_Methods](/Chapter_5/)
+- ## [Chapter_6_Linear_Model_Selection_and_Regularization](/Chapter_6/)
