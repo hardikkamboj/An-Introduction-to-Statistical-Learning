@@ -9,5 +9,5 @@ This repository contains the exercises and its solution contained in the book An
  can also get the most our of this amazing book. Along with that i have also provided the solutions for conceptual questions.
  
  # Chapter 2
- ## [Chapter_2 Applied_Questions](/Chapter_2/Applied_Questions.ipynb)
+ ## [Chapter_2 Applied_Questions](/Chapter_2/)
 
