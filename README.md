@@ -8,6 +8,8 @@ This repository contains the exercises and its solution contained in the book An
  language. To overcome this i have tried solving all the questions in practical exerices in Python language, so people using python language 
  can also get the most our of this amazing book. Along with that i have also provided the solutions for conceptual questions.
  
- # Chapter 2
- ## [Chapter_2 Applied_Questions](/Chapter_2/)
-
+## [Chapter_2](/Chapter_2/)
+## [Chapter_3](/Chapter_3/)
+## [Chapter_4](/Chapter_4/)
+## [Chapter_5](/Chapter_5/)
+## [Chapter_6](/Chapter_6/)
