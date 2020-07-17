@@ -7,3 +7,7 @@ This repository contains the exercises and its solution contained in the book An
  machine learning algorithms, however, the exercises are implemented in R language, which is a hinderence for all those who are using python
  language. To overcome this i have tried solving all the questions in practical exerices in Python language, so people using python language 
  can also get the most our of this amazing book. Along with that i have also provided the solutions for conceptual questions.
+ 
+ # Chapter 2
+ ## [Chapter_2 Applied_Questions](/Chapter_2/Applied Question.ipynb)
+
