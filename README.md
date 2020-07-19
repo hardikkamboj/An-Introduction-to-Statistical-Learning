@@ -13,8 +13,8 @@ This repository contains the exercises and its solution contained in the book An
  this is my email - hardikkamboj1@gmail.com
  Happy Learning!
  
-- ## [Chapter_2_Statistical_Learning](/Chapter_2/)
-- ## [Chapter_3_Linear_Regression](/Chapter_3/)
-- ## [Chapter_4_Classification](/Chapter_4/)
-- ## [Chapter_5_Resampling_Methods](/Chapter_5/)
-- ## [Chapter_6_Linear_Model_Selection_and_Regularization](/Chapter_6/)
+- [Chapter_2_Statistical_Learning](/Chapter_2/)
+- [Chapter_3_Linear_Regression](/Chapter_3/)
+- [Chapter_4_Classification](/Chapter_4/)
+- [Chapter_5_Resampling_Methods](/Chapter_5/)
+- [Chapter_6_Linear_Model_Selection_and_Regularization](/Chapter_6/)
