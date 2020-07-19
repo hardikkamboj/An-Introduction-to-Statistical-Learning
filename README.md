@@ -13,6 +13,8 @@ This repository contains the exercises and its solution contained in the book An
  this is my email - hardikkamboj1@gmail.com
  Happy Learning!
  
+ 
+ ## An Introduction to Statistical Learning
 - [Chapter_2_Statistical_Learning](/Chapter_2/)
 - [Chapter_3_Linear_Regression](/Chapter_3/)
 - [Chapter_4_Classification](/Chapter_4/)
