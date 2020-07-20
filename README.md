@@ -20,3 +20,9 @@ This repository contains the exercises and its solution contained in the book An
 - [Chapter_4_Classification](/Chapter_4/)
 - [Chapter_5_Resampling_Methods](/Chapter_5/)
 - [Chapter_6_Linear_Model_Selection_and_Regularization](/Chapter_6/)
+
+
+REFERENCES - 
+[https://botlnec.github.io/islp/]
+[https://github.com/a-martyn/ISL-python]
+[https://github.com/mscaudill/IntroStatLearn]
