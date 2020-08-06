@@ -20,6 +20,7 @@ This repository contains the exercises and its solution contained in the book An
 - [Chapter_4_Classification](/Chapter_4/)
 - [Chapter_5_Resampling_Methods](/Chapter_5/)
 - [Chapter_6_Linear_Model_Selection_and_Regularization](/Chapter_6/)
+- [Chapter_7_Moving_Beyond_Linearity](/Chapter_7/)
 
 
 REFERENCES - 
