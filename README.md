@@ -22,6 +22,7 @@ This repository contains the exercises and its solution contained in the book An
 - [Chapter_6_Linear_Model_Selection_and_Regularization](/Chapter_6/)
 - [Chapter_7_Moving_Beyond_Linearity](/Chapter_7/)
 - [Chapter_8_Tree_Based_Methods](/Chapter_8/)
+- [Chapter_9_Support_Vector_Machines](/Chapter_9/)
 
 
 REFERENCES - 
