@@ -23,6 +23,7 @@ This repository contains the exercises and its solution contained in the book An
 - [Chapter_7_Moving_Beyond_Linearity](/Chapter_7/)
 - [Chapter_8_Tree_Based_Methods](/Chapter_8/)
 - [Chapter_9_Support_Vector_Machines](/Chapter_9/)
+- [Chapter_10_Unsupervised_Learning](/Chapter_10/)
 
 
 REFERENCES - 
