@@ -1,4 +1,4 @@
-# [An-Introduction-to-Statistical-Learning](http://faculty.marshall.usc.edu/gareth-james/ISL/)
+# [An-Introduction-to-Statistical-Learning](https://static1.squarespace.com/static/5ff2adbe3fe4fe33db902812/t/6062a083acbfe82c7195b27d/1617076404560/ISLR%2BSeventh%2BPrinting.pdf)
 
 This repository contains the exercises and its solution contained in the book An Introduction to Statistical Learning
 
